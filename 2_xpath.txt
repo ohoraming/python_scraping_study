@@ -1,0 +1,10 @@
+XPath란?
+html 문서의 특정 element를 지칭하는 일종의 주소
+전체 경로 또는, id나 class와 같은 속성을 이용해 보다 짧게 표현할 수 있음
+
+e.g.) naver.com의 로그인 버튼
+full XPath:
+/html/body/div[2]/div[3]/div[3]/div/div[2]/a
+
+XPath:
+//*[@id="account"]/a
